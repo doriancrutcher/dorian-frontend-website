@@ -47,7 +47,7 @@ const form = useRef()
     e.preventDefault();
   
     emailjs
-      .sendForm('service_401y6ce', 'template_9jsec9t', form.current, "uVkVZmWfLGtkqDJWj")
+      .sendForm(process.env.SERVICEID, process.env.TEMPLATEID, form.current, process.env.PK)
       .then(
         () => {
           alert('Message successfully sent!');
