@@ -7,7 +7,7 @@ import Layout from './Components/Layout';
 
 import {
   Route,
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   Outlet,
   RouterProvider,
@@ -17,9 +17,9 @@ import AboutMe from './Components/AboutMe';
 import Contact from './Components/Contacts';
 
 function App() {
-  const router = createBrowserRouter(
+  const router = createHashRouter(
     createRoutesFromElements(
-      <Route path="/" element={<Root />}>
+      <Route  path="/" element={<Root />}>
         <Route index element={<Home />} />
         <Route  element={<Layout />} />
         <Route path="/about" element={<AboutMe/>}/>

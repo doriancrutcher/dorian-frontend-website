@@ -2,6 +2,19 @@
     padding-left: 60px;
     margin-left: 60px;
 
+    .banner{
+        color: #fff;
+        font-size: 96px;
+        line-height: 53px;
+        margin: 0;
+        font-family: 'Coolvetica';
+        font-weight: 500;
+        justify-content: center;
+        display: flex;
+        color: #ffd700;
+        animation: pulse 10s;
+    }
+
 
     .text-zone {
 
