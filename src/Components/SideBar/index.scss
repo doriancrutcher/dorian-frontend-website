@@ -4,7 +4,7 @@
     height: 100%;
     z-index: 3;
     top: 0;
-    position: absolute;
+    position: fixed;
     min-height: 500px;
 
     ul {
@@ -112,6 +112,11 @@
           &.contact-link {
             &::after {
               content: "CONTACT";
+            }
+          }
+          &.projects-link {
+            &::after {
+              content: "Projects";
             }
           }
       }

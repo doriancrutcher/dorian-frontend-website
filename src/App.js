@@ -15,6 +15,7 @@ import {
 import Sidebar from './Components/SideBar';
 import AboutMe from './Components/AboutMe';
 import Contact from './Components/Contacts';
+import Projects from './Components/Projects';
 
 function App() {
   const router = createHashRouter(
@@ -24,6 +25,7 @@ function App() {
         <Route  element={<Layout />} />
         <Route path="/about" element={<AboutMe/>}/>
         <Route path="/contact" element={<Contact/>}/>
+        <Route path="/projects" element={<Projects/>}/>
 
       </Route>
     )
