@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dorian-frontend-website/static/css/main.8517e07b.css",
-    "main.js": "/dorian-frontend-website/static/js/main.dc35cf26.js",
+    "main.css": "/dorian-frontend-website/static/css/main.a8516bcd.css",
+    "main.js": "/dorian-frontend-website/static/js/main.6dcd6912.js",
     "static/js/787.40c78e9d.chunk.js": "/dorian-frontend-website/static/js/787.40c78e9d.chunk.js",
     "static/media/dorheadshotgroup.png": "/dorian-frontend-website/static/media/dorheadshotgroup.742ad44cdffc0bca9db3.png",
     "static/media/helvetica-neu.ttf": "/dorian-frontend-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,12 +10,12 @@
     "static/media/Dorian.nerd.svg": "/dorian-frontend-website/static/media/Dorian.nerd.57801a4db75fb8505fa22d80cc489564.svg",
     "static/media/d-svg-logo.svg": "/dorian-frontend-website/static/media/d-svg-logo.e55c75e143bc315265f627ce7f86efa1.svg",
     "index.html": "/dorian-frontend-website/index.html",
-    "main.8517e07b.css.map": "/dorian-frontend-website/static/css/main.8517e07b.css.map",
-    "main.dc35cf26.js.map": "/dorian-frontend-website/static/js/main.dc35cf26.js.map",
+    "main.a8516bcd.css.map": "/dorian-frontend-website/static/css/main.a8516bcd.css.map",
+    "main.6dcd6912.js.map": "/dorian-frontend-website/static/js/main.6dcd6912.js.map",
     "787.40c78e9d.chunk.js.map": "/dorian-frontend-website/static/js/787.40c78e9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8517e07b.css",
-    "static/js/main.dc35cf26.js"
+    "static/css/main.a8516bcd.css",
+    "static/js/main.6dcd6912.js"
   ]
 }
